@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+image{
+    height: 200px;
+    width: 200px;
+    border: 50%;
+}
