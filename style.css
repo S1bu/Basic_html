@@ -1,3 +1,7 @@
 body{
     background-color: black;
 }
+
+.nav-link a{ 
+    color: white;
+}
